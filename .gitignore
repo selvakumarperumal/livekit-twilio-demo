@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# LiveKit Twilio SIP Gateway settings
+livekit_twilio_settings.json
+
+#UV
+*.lock
+
